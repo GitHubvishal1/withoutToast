@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const DELIVERY_API_BASE_URL = "https://vishalrananew-eval-test.apigee.net/delivery";
+const DELIVERY_API_BASE_URL = "https://delivery-back-end.herokuapp.com/delivery/";
 
 class DeliveryService {
     getDelivery() {
