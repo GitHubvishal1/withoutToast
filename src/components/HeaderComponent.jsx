@@ -8,7 +8,7 @@ class HeaderComponent extends Component {
           <nav className="navbar navbar-expand-lg navbar-light">
             <div>
               <a
-                href="https://delivery-back-end.herokuapp.com"
+                href="https://delivery-front-app.herokuapp.com/"
                 className="navbar-brand"
               >
                 Apartment Security Management
