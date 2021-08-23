@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const DELIVERY_API_BASE_URL = "http://localhost:5050/delivery/";
+const DELIVERY_API_BASE_URL = "https://delivery-back-end.herokuapp.com/delivery/";
 
 class DeliveryService {
     getDelivery() {
